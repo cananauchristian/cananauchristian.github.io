@@ -9,14 +9,14 @@
           "layout": "0,0,12,2",
           "label": "Open",
           "icon": "open-in-new",
-          "action": "link:validate:window:https://seasonvar.club/msx/start.json"
+          "action": "link:validate:window:https://seasonvar.club"
         },
         {
           "type": "button",
           "layout": "0,2,12,2",
           "label": "No Validate",
           "icon": "open-in-new",
-          "action": "link:window:https:seasonvar.club/msx/start.json"
+          "action": "link:window:https:seasonvar.club"
         }
       ]
     }
