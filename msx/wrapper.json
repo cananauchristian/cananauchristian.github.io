@@ -16,7 +16,7 @@
           "layout": "0,2,12,2",
           "label": "No Validate",
           "icon": "open-in-new",
-          "action": "link:window:https:seasonvar.club"
+          "action": "link:window:https://seasonvar.club"
         }
       ]
     }
