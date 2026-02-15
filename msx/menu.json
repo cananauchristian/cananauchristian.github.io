@@ -5,7 +5,7 @@
     {
       "label": "Seasonvar",
       "icon": "play-arrow",
-      "data": "http://seasonvar.club/msx/start.json"
+      "data": "https://{SERVER}/msx/wrapper.json"
     },
     {
       "label": "Lampa",
