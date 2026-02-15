@@ -3,33 +3,18 @@
   "version": "1.0.0",
   "menu": [
     {
-      "label": "Apps",
+      "label": "Lampa",
       "icon": "apps",
-      "data": {
-        "type": "pages",
-        "headline": "Apps",
-        "pages": [
-          {
-            "items": [
-              {
-                "type": "button",
-                "layout": "0,0,12,2",
-                "icon": "play-arrow",
-                "label": "Lampa",
-                "action": "LAMPA_ACTION"
-              },
-              {
-                "type": "button",
-                "layout": "0,2,12,2",
-                "icon": "open-in-new",
-                "label": "Seasonvar",
-                "action": "SEASONVAR_ACTION"
-              }
-            ]
-          }
-        ]
-      }
+      "action": "menu:http://lampa.mx/msx/start.json"
     },
-    { "type": "settings", "label": "MSX Settings" }
+    {
+      "label": "Seasonvar",
+      "icon": "play-arrow",
+      "action": "content:http://seasonvar.club/msx/start.json"
+    },
+    {
+      "type": "settings",
+      "label": "Einstellungen"
+    }
   ]
 }
