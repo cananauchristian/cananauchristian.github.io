@@ -21,10 +21,12 @@
         {
           "type": "button",
           "layout": "0,4,12,2",
-          "label": "Open (Direkt)",
+          "label": "Open (direct)",
           "icon": "open-in-new",
           "action": "link:https://seasonvar.club"
         }
       ]
     }
   ]
+}
+  
