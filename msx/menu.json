@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "menu": [
     {
-      "label": "Lampa",
-      "icon": "play-arrow",
-      "data": "http://lampa.mx/msx/start.json"
-    },
-    {
       "label": "Seasonvar",
       "icon": "play-arrow",
       "data": "http://seasonvar.club/msx/start.json"
+    },
+    {
+      "label": "Lampa",
+      "icon": "play-arrow",
+      "data": "http://lampa.mx/msx/start.json"
     },
     {
       "type": "settings",
