@@ -1,0 +1,6 @@
+{
+  "name": "Mein Portal",
+  "version": "1.0.0",
+  "parameter": "menu:https://{SERVER}/msx/menu.json",
+  "welcome": "none"
+}

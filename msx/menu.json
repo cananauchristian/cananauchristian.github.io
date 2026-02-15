@@ -1,0 +1,19 @@
+{
+  "headline": "Start-Menü",
+  "menu": [
+    {
+      "icon": "play-arrow",
+      "label": "LampaTV/BWA",
+      "action": "link:window:http://lampa.mx"
+    },
+    {
+      "icon": "open-in-new",
+      "label": "Seasonvar",
+      "action": "link:window:http://seasonvar.club"
+    },
+    {
+      "type": "settings",
+      "label": "MSX Einstellungen"
+    }
+  ]
+}
