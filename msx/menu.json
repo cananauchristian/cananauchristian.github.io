@@ -13,6 +13,11 @@
       "action": "content:https://seasonvar.club/msx/start.json"
     },
     {
+      "label": "MSX Test (muss gehen)",
+      "icon": "play-arrow",
+      "action": "content:https://msx.benzac.de/info/data/guide/videos.json"
+    },
+    {
       "type": "settings",
       "label": "Einstellungen"
     }
