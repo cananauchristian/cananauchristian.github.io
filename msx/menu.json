@@ -1,19 +1,35 @@
 {
-  "headline": "Start Menu",
+  "name": "MSX Portal",
+  "version": "1.0.0",
   "menu": [
     {
-      "icon": "play-arrow",
-      "label": "LampaTV/BWA",
-      "action": "link:window:http://lampa.mx"
+      "label": "Apps",
+      "icon": "apps",
+      "data": {
+        "type": "pages",
+        "headline": "Apps",
+        "pages": [
+          {
+            "items": [
+              {
+                "type": "button",
+                "layout": "0,0,12,2",
+                "icon": "play-arrow",
+                "label": "Lampa",
+                "action": "LAMPA_ACTION"
+              },
+              {
+                "type": "button",
+                "layout": "0,2,12,2",
+                "icon": "open-in-new",
+                "label": "Seasonvar",
+                "action": "SEASONVAR_ACTION"
+              }
+            ]
+          }
+        ]
+      }
     },
-    {
-      "icon": "open-in-new",
-      "label": "Seasonvar",
-      "action": "link:window:http://seasonvar.club"
-    },
-    {
-      "type": "settings",
-      "label": "MSX Einstellungen"
-    }
+    { "type": "settings", "label": "MSX Settings" }
   ]
 }
