@@ -4,18 +4,13 @@
   "menu": [
     {
       "label": "Lampa",
-      "icon": "apps",
+      "icon": "play-arrow",
       "data": "http://lampa.mx/msx/start.json"
     },
     {
       "label": "Seasonvar",
       "icon": "play-arrow",
-      "data": "https://seasonvar.club/msx/start.json"
-    },
-    {
-      "label": "MSX Test",
-      "icon": "play-arrow",
-      "data": "https://msx.benzac.de/info/data/guide/videos.json"
+      "data": "http://seasonvar.club/msx/start.json"
     },
     {
       "type": "settings",
