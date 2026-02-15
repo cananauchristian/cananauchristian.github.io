@@ -5,12 +5,12 @@
     {
       "label": "Lampa",
       "icon": "apps",
-      "action": "menu:http://lampa.mx/msx/start.json"
+      "action": "content:http://lampa.mx/msx/start.json"
     },
     {
       "label": "Seasonvar",
       "icon": "play-arrow",
-      "action": "link:http://seasonvar.club/msx/start.json"
+      "action": "content:https://seasonvar.club/msx/start.json"
     },
     {
       "type": "settings",
