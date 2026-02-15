@@ -5,17 +5,17 @@
     {
       "label": "Lampa",
       "icon": "apps",
-      "action": "content:http://lampa.mx/msx/start.json"
+      "data": "http://lampa.mx/msx/start.json"
     },
     {
       "label": "Seasonvar",
       "icon": "play-arrow",
-      "action": "content:https://seasonvar.club/msx/start.json"
+      "data": "https://seasonvar.club/msx/start.json"
     },
     {
-      "label": "MSX Test (muss gehen)",
+      "label": "MSX Test",
       "icon": "play-arrow",
-      "action": "content:https://msx.benzac.de/info/data/guide/videos.json"
+      "data": "https://msx.benzac.de/info/data/guide/videos.json"
     },
     {
       "type": "settings",
