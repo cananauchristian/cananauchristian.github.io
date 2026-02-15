@@ -17,8 +17,14 @@
           "label": "No Validate",
           "icon": "open-in-new",
           "action": "link:window:https://seasonvar.club"
+        },
+        {
+          "type": "button",
+          "layout": "0,4,12,2",
+          "label": "Open (Direkt)",
+          "icon": "open-in-new",
+          "action": "link:https://seasonvar.club"
         }
       ]
     }
   ]
-}
