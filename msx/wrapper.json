@@ -9,7 +9,7 @@
           "layout": "0,4,12,2",
           "label": "Open",
           "icon": "open-in-new",
-          "action": "link:https://seasonvar.club"
+          "action": "link:https://seasonvar.club/msx/start.json"
         }
       ]
     }
