@@ -6,14 +6,8 @@
       "items": [
         {
           "type": "button",
-          "layout": "0,4,12,2",
-          "label": "Open",
-          "icon": "open-in-new",
-          "action": "link:https://seasonvar.club/msx/start.json"
-        },
-        {
-          "type": "button",
           "layout": "0,0,12,2",
+          "icon": "window",
           "label": "Start Seasonvar",
           "action": "content:https://seasonvar.club/msx/welcome.php"
         }
