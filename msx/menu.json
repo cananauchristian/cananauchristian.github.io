@@ -13,6 +13,11 @@
       "data": "https://cananauchristian.github.io/msx/wrapper.json"
     },
     {
+      "label": "Seasonvar Action",
+      "icon": "play-arrow",
+      "action": "execute:info:extended:https://seasonvar.club/msx/user.php?act=enter"
+    },
+    {
       "type": "settings",
       "label": "Einstellungen"
     }
