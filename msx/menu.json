@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "menu": [
     {
-      "label": "Seasonvar",
-      "icon": "play-arrow",
-      "data": "https://cananauchristian.github.io/msx/wrapper.json"
-    },
-    {
       "label": "Lampa",
       "icon": "play-arrow",
       "data": "http://lampa.mx/msx/start.json"
+    },
+    {
+      "label": "Seasonvar",
+      "icon": "play-arrow",
+      "data": "https://seasonvar.club/msx/start.json"
     },
     {
       "type": "settings",
