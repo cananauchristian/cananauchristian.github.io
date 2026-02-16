@@ -6,22 +6,8 @@
       "items": [
         {
           "type": "button",
-          "layout": "0,0,12,2",
-          "label": "Open",
-          "icon": "open-in-new",
-          "action": "link:validate:window:https://seasonvar.club"
-        },
-        {
-          "type": "button",
-          "layout": "0,2,12,2",
-          "label": "No Validate",
-          "icon": "open-in-new",
-          "action": "link:window:https://seasonvar.club"
-        },
-        {
-          "type": "button",
           "layout": "0,4,12,2",
-          "label": "Open (direct)",
+          "label": "Open",
           "icon": "open-in-new",
           "action": "link:https://seasonvar.club"
         }
