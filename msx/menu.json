@@ -1,34 +1,31 @@
 {
   "name": "MSX Portal",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "cache": false,
   "menu": [
     {
+      "id": "lampa",
       "label": "Lampa",
       "icon": "play-arrow",
-      "data": {
-        "type": "pages",
-        "cache": false,
-        "pages": [
-          {
-            "action": "link:http://lampa.mx",
-            "items": [
-              {
-                "type": "button",
-                "layout": "0,0,12,6",
-                "label": "Lampa öffnen",
-                "icon": "play-arrow",
-                "action": "link:http://lampa.mx"
-              }
-            ]
-          }
-        ]
-      }
+      "data": "https://cananauchristian.github.io/msx/apps/lampa/start.json"
     },
     {
+      "id": "msxplayer",
+      "label": "MSXPlayer v4",
+      "icon": "play-arrow",
+      "data": "https://cananauchristian.github.io/msx/apps/msxplayer/start.json"
+    },
+    {
+      "id": "launcher",
+      "label": "Offizieller MSX Launcher",
+      "icon": "apps",
+      "data": "https://cananauchristian.github.io/msx/apps/launcher/start.json"
+    },
+    {
+      "id": "seasonvar",
       "label": "Seasonvar",
       "icon": "play-arrow",
-      "data": "https://cananauchristian.github.io/msx/wrapper.json"
+      "data": "https://cananauchristian.github.io/msx/apps/seasonvar/start.json"
     },
     {
       "type": "settings",
