@@ -1,6 +1,6 @@
 {
-  "name": "Christian MSX Portal",
-  "version": "2.1.0",
+  "name": "MSX Portal",
+  "version": "2.2.0",
   "cache": false,
   "menu": [
     {
@@ -14,6 +14,12 @@
       "label": "MSXPlayer v4",
       "icon": "play-arrow",
       "data": "https://cananauchristian.github.io/msx/apps/msxplayer/start.json"
+    },
+    {
+      "id": "noname",
+      "label": "NoName Portal",
+      "icon": "apps",
+      "data": "https://cananauchristian.github.io/msx/apps/noname/start.json"
     },
     {
       "id": "seasonvar",
