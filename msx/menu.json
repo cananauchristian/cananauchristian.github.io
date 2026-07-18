@@ -1,11 +1,29 @@
 {
   "name": "MSX Portal",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "cache": false,
   "menu": [
     {
       "label": "Lampa",
       "icon": "play-arrow",
-      "action": "link:https://yumata.github.io/lampa/"
+      "data": {
+        "type": "pages",
+        "cache": false,
+        "pages": [
+          {
+            "action": "link:http://lampa.mx",
+            "items": [
+              {
+                "type": "button",
+                "layout": "0,0,12,6",
+                "label": "Lampa öffnen",
+                "icon": "play-arrow",
+                "action": "link:http://lampa.mx"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "label": "Seasonvar",
