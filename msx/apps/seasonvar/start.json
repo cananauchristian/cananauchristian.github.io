@@ -1,0 +1,32 @@
+{
+  "type": "pages",
+  "headline": "Seasonvar",
+  "cache": false,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,12,2",
+          "label": "Seasonvar starten",
+          "icon": "play-arrow",
+          "action": "content:https://seasonvar.club/msx/welcome.php"
+        },
+        {
+          "type": "button",
+          "layout": "0,2,12,2",
+          "label": "Webseite als Alternative öffnen",
+          "icon": "window",
+          "action": "link:https://seasonvar.club"
+        },
+        {
+          "type": "button",
+          "layout": "0,4,12,2",
+          "label": "Zurück zum Hauptmenü",
+          "icon": "home",
+          "action": "home"
+        }
+      ]
+    }
+  ]
+}
