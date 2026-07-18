@@ -16,12 +16,6 @@
       "data": "https://cananauchristian.github.io/msx/apps/msxplayer/start.json"
     },
     {
-      "id": "noname",
-      "label": "NoName Portal",
-      "icon": "apps",
-      "data": "https://cananauchristian.github.io/msx/apps/noname/start.json"
-    },
-    {
       "id": "seasonvar",
       "label": "Seasonvar",
       "icon": "play-arrow",
