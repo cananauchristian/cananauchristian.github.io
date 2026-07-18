@@ -16,7 +16,6 @@ folgenden Startparameter mit geschlossenem Schloss eintragen:
 
 - Lampa
 - MSXPlayer v4
-- Offizieller MSX Launcher
 - Seasonvar
 
 ## Struktur
