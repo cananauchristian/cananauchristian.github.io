@@ -1,0 +1,32 @@
+{
+  "type": "pages",
+  "headline": "MSXPlayer",
+  "cache": false,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,12,2",
+          "label": "MSXPlayer v4 öffnen",
+          "icon": "play-arrow",
+          "action": "link:https://v4.msxplayer.ru"
+        },
+        {
+          "type": "button",
+          "layout": "0,2,12,2",
+          "label": "Alternative Version öffnen",
+          "icon": "window",
+          "action": "link:https://msxplayer.ru"
+        },
+        {
+          "type": "button",
+          "layout": "0,4,12,2",
+          "label": "Zurück zum Hauptmenü",
+          "icon": "home",
+          "action": "home"
+        }
+      ]
+    }
+  ]
+}
