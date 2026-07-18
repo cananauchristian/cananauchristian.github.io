@@ -5,7 +5,7 @@
     {
       "label": "Lampa",
       "icon": "play-arrow",
-      "data": "https://cf.lampa.mx/msx/start.json"
+      "action": "link:https://yumata.github.io/lampa/"
     },
     {
       "label": "Seasonvar",
