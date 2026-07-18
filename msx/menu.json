@@ -1,6 +1,6 @@
-{
+{{
   "name": "MSX Portal",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "cache": false,
   "menu": [
     {
@@ -14,12 +14,6 @@
       "label": "MSXPlayer v4",
       "icon": "play-arrow",
       "data": "https://cananauchristian.github.io/msx/apps/msxplayer/start.json"
-    },
-    {
-      "id": "launcher",
-      "label": "Offizieller MSX Launcher",
-      "icon": "apps",
-      "data": "https://cananauchristian.github.io/msx/apps/launcher/start.json"
     },
     {
       "id": "seasonvar",
