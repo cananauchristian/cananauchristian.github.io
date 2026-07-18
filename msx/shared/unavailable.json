@@ -1,0 +1,25 @@
+{
+  "type": "pages",
+  "headline": "Dienst nicht verfügbar",
+  "cache": false,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,12,3",
+          "label": "Dieser Dienst ist derzeit nicht verfügbar",
+          "icon": "info",
+          "action": "info:Der Eintrag wurde vorübergehend deaktiviert. Versuche es später erneut."
+        },
+        {
+          "type": "button",
+          "layout": "0,3,12,3",
+          "label": "Zurück zum Hauptmenü",
+          "icon": "home",
+          "action": "home"
+        }
+      ]
+    }
+  ]
+}
