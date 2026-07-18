@@ -1,0 +1,32 @@
+{
+  "type": "pages",
+  "headline": "Lampa",
+  "cache": false,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,12,2",
+          "label": "Lampa öffnen",
+          "icon": "play-arrow",
+          "action": "link:http://lampa.mx"
+        },
+        {
+          "type": "button",
+          "layout": "0,2,12,2",
+          "label": "Einrichtungshinweis",
+          "icon": "info",
+          "action": "info:Falls der Start über das Portal nicht funktioniert, richte lampa.mx direkt als Startparameter ein und verwende ein offenes Schloss."
+        },
+        {
+          "type": "button",
+          "layout": "0,4,12,2",
+          "label": "Zurück zum Hauptmenü",
+          "icon": "home",
+          "action": "home"
+        }
+      ]
+    }
+  ]
+}
