@@ -1,0 +1,25 @@
+{
+  "type": "pages",
+  "headline": "W.A.L.S.",
+  "cache": false,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,12,2",
+          "label": "W.A.L.S. öffnen",
+          "icon": "play-arrow",
+          "action": "menu:https://wals09.github.io/msx/mooviestile/menu_ms.json"
+        },
+        {
+          "type": "button",
+          "layout": "0,2,12,2",
+          "label": "Zurück zum Hauptmenü",
+          "icon": "home",
+          "action": "menu:https://cananauchristian.github.io/msx/menu.json"
+        }
+      ]
+    }
+  ]
+}
