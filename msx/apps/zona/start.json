@@ -1,0 +1,25 @@
+{
+  "type": "pages",
+  "headline": "Zona",
+  "cache": false,
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "button",
+          "layout": "0,0,12,2",
+          "label": "Zona öffnen",
+          "icon": "play-arrow",
+          "action": "link:https://msx.zona.ms"
+        },
+        {
+          "type": "button",
+          "layout": "0,2,12,2",
+          "label": "Zurück zum Hauptmenü",
+          "icon": "home",
+          "action": "menu:https://cananauchristian.github.io/msx/menu.json"
+        }
+      ]
+    }
+  ]
+}
