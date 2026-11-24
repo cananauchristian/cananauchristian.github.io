@@ -1,6 +1,6 @@
 {
   "name": "MSX Portal",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "cache": false,
   "menu": [
     {
@@ -8,12 +8,6 @@
       "label": "Lampa",
       "icon": "play-arrow",
       "data": "https://cananauchristian.github.io/msx/apps/lampa/start.json"
-    },
-    {
-      "id": "msxplayer",
-      "label": "MSXPlayer v4",
-      "icon": "play-arrow",
-      "data": "https://cananauchristian.github.io/msx/apps/msxplayer/start.json"
     },
     {
       "id": "seasonvar",
@@ -31,7 +25,13 @@
       "id": "wals",
       "label": "W.A.L.S.",
       "icon": "play-arrow",
-      "data": "https://cananauchristian.github.io/msx/apps/wals/start.json"
+      "data": "https://cananauchristian.github.io/msx/apps/msx/apps/wals/start.json"
+    },
+    {
+      "id": "msxplayer",
+      "label": "MSXPlayer v4",
+      "icon": "play-arrow",
+      "data": "https://cananauchristian.github.io/msx/apps/msxplayer/start.json"
     },
     {
       "type": "settings",
