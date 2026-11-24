@@ -1,6 +1,6 @@
 {
   "name": "MSX Portal",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "cache": false,
   "menu": [
     {
@@ -20,6 +20,18 @@
       "label": "Seasonvar",
       "icon": "play-arrow",
       "data": "https://cananauchristian.github.io/msx/apps/seasonvar/start.json"
+    },
+    {
+      "id": "zona",
+      "label": "Zona",
+      "icon": "play-arrow",
+      "data": "https://cananauchristian.github.io/msx/apps/zona/start.json"
+    },
+    {
+      "id": "wals",
+      "label": "W.A.L.S.",
+      "icon": "play-arrow",
+      "data": "https://cananauchristian.github.io/msx/apps/wals/start.json"
     },
     {
       "type": "settings",
